@@ -1,0 +1,19 @@
+Dataset Description
+
+This dataset contains information about various Udemy courses, including details such as subject, price, number of lectures, subscribers, and reviews.
+It allows for in-depth analysis of course trends, popularity, pricing, 
+
+Dataset Features
+course_id – Unique identifier for each course
+course_title – Title of the course
+url – Course landing page link
+is_paid – Indicates if the course is free or paid
+price – Cost of the course
+num_subscribers – Number of students enrolled
+num_reviews – Total number of reviews
+num_lectures – Count of lectures in the course
+level – Course difficulty level (Beginner, Intermediate, etc.)
+content_duration – Total hours of course content
+published_timestamp – Date the course was posted
+subject – The category to which the course belongs (e.g., Business, Web Development)
+
